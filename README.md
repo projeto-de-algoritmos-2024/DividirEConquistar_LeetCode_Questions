@@ -21,6 +21,14 @@
 
 Para desenvolver o conteúdo abordado no tópico de D&C, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem três de nível avançado (difíceis).
 
+## Screenshots
+
+### 04. Median of Two Sorted Arrays
+
+- [Link no leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+![04_LeetCode](./assets/4.%20Median%20of%20Two%20Sorted%20Arrays.PNG)
+
 ## Instalação
 
 **Linguagem**: Typescript<br>

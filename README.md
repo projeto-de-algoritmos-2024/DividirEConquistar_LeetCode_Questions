@@ -22,6 +22,10 @@
 
 Para desenvolver o conteúdo abordado no tópico de D&C, a dupla selecionou três exercícios em uma plataforma de avaliação online, o LeetCode. Os exercícios escolhidos incluem três de nível avançado (difíceis).
 
+## Demonstração
+
+- [Link da demonstração no youtube](https://www.youtube.com/watch?v=HUlOiCLLij0)
+
 ## Screenshots
 
 ### 04. Median of Two Sorted Arrays
@@ -32,9 +36,19 @@ Para desenvolver o conteúdo abordado no tópico de D&C, a dupla selecionou trê
 
 ### 23. Merge k Sorted Lists
 
+- [Link no leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
 ![23_LeetCode_1](./assets/23_1.png)
 
 ![23_LeetCode_2](./assets/23_2.png)
+
+### 327. Count of Range Sum
+
+- [Link no leetcode](https://leetcode.com/problems/count-of-range-sum/description/)
+
+![23_LeetCode_1](./assets/327_1.png)
+
+![23_LeetCode_2](./assets/327_2.png)
 
 ## Instalação
 

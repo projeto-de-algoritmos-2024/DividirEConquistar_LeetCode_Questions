@@ -4,17 +4,18 @@
 **Conteúdo da Disciplina**: FGA0124<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 211031771 |  Lucas Lopes Frazão |
-| 211031459  |  Pedro Henrique Rodrigues de Carvalho |
+
+| Matrícula | Aluno                                |
+| --------- | ------------------------------------ |
+| 211031771 | Lucas Lopes Frazão                   |
+| 211031459 | Pedro Henrique Rodrigues de Carvalho |
 
 ## Questões
 
 | Matricula | Aluno   |
 | --------- | ------- |
-| 04       | Difícil   |
-| 23       | Difícil |
+| 04        | Difícil |
+| 23        | Difícil |
 | 327       | Difícil |
 
 ## Sobre
@@ -29,16 +30,18 @@ Para desenvolver o conteúdo abordado no tópico de D&C, a dupla selecionou trê
 
 ![04_LeetCode](./assets/4.%20Median%20of%20Two%20Sorted%20Arrays.PNG)
 
+### 23. Merge k Sorted Lists
+
+![23_LeetCode_1](./assets/23_1.png)
+
+![23_LeetCode_2](./assets/23_2.png)
+
 ## Instalação
 
-**Linguagem**: Typescript<br>
+**Linguagem**: Typescript
 
 - Conta no LeetCode
 
 ## Uso
 
 Para utilizar os códigos, basta acessar o repositório, copiar os arquivos fornecidos e executá-los diretamente na sua conta do LeetCode.
-
-
-
-
